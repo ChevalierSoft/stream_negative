@@ -13,5 +13,5 @@ The goal was to read pdf witout loosing my eyes at 4AM.
 `W/A/S/D` or `Z/Q/S/D` to resize the canvas\
 `ARROW KEYS` to move the window on top of the content you whant to capture
 
-## installation
+## Installation
 if you don't have Processing on you machine, please check the realeases (at the right of this page).
